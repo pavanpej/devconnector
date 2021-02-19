@@ -1,2 +1,8 @@
-/node_modules
+# dependencies
+node_modules/
+
+# node
 package-lock.json
+
+# VS Code
+.vscode

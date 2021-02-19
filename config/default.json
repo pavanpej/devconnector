@@ -1,0 +1,7 @@
+{
+  "mongoURI": "mongodb+srv://pavanpej:Mongopej@devconnector-pf2lo.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "f45330d5-9235-4d1e-8bc5-ccdf69d37aa7",
+  "jwtExpiry": 36000,
+  "githubClientId": "e5ef0218e843e71868f8",
+  "githubSecret": "7fb2a48e2888c1a7ac51310850e9335b45c1bdc6"
+}
